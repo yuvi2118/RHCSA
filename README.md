@@ -1,6 +1,6 @@
 # RHCSA
 RHCSA Zero To Hero
-# Linux Exam Guide
+# RHCSA Exam Guide
 
 ## Overview
 This repository contains a comprehensive guide for configuring and managing a Linux system as per the exam requirements. It includes steps for setting up a YUM repository, configuring SELinux, managing users and groups, setting up containers, configuring NTP, and more.
