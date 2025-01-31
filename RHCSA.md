@@ -1,4 +1,4 @@
-# Linux Exam Configuration Guide
+# RHCSA Exam Complete Guide
 
 ## **Primary Machine**
 
